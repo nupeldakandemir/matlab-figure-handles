@@ -12,7 +12,7 @@
 - Set the 𝑐𝑜𝑙𝑜𝑟 property of the figure to a dark gray.Use set and gcf
 - Add a title that says ‘One sine wave from 0 to 2π’ with 𝑓𝑜𝑛𝑡𝑠𝑖𝑧𝑒 14, 𝑓𝑜𝑛𝑡𝑤𝑒𝑖𝑔ℎ𝑡 bold,and 𝑐𝑜𝑙𝑜𝑟 white. Hint: to get the π to display properly, use \pi in your string. MATLAB uses a Tex or Latex interpreter in xlabel, ylabel, and title. You can do all this just by using 
 title, no need for handles.
-- Add the appropriate x and y labels (make sure the π shows up that way in the x label) using a 𝑓𝑜𝑛𝑡𝑠𝑖𝑧𝑒 of 12 and 𝑐𝑜𝑙𝑜𝑟 cyan for x and green for y. Use xlabel and ylabel␣␣
+- Add the appropriate x and y labels (make sure the π shows up that way in the x label) using a 𝑓𝑜𝑛𝑡𝑠𝑖𝑧𝑒 of 12 and 𝑐𝑜𝑙𝑜𝑟 cyan for x and green for y. Use xlabel and ylabel ␣␣
 
 
   ![6](https://github.com/user-attachments/assets/bd26b5e6-a919-4a53-9be9-97fcfdaacc31)
